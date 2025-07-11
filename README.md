@@ -16,3 +16,13 @@ Initialise Shadcn:
 ```bash
 npx shadcn@latest init
 ```
+
+Install components:
+```bash
+npx shadcn@latest add avatar badge button card checkbox command dialog dropdown-menu form input label navigation-menu radio-group select separator sheet sidebar skeleton slider sonner switch table tabs textarea tooltip
+```
+
+Install redux:
+```bash
+npm i react-redux @reduxjs/toolkit dotenv --legacy-peer-deps
+```
